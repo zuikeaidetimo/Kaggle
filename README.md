@@ -1,2 +1,2 @@
 # Kaggle
-Kaggle study
+Kaggle study 2020-09-25 ~ 
